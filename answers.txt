@@ -1,3 +1,14 @@
+Q1: Why might we consider using Git?
+
+Answer: Git is a great tool for us as computer science students because it 
+allows us to control the versions of code that we publish. Along with that, Git
+makes collaborations on coding projects much easier and will update accordingly
+. In terms of this class, where we have a project that we will be sharing with 
+each other, and we will be running experiements. It will make this class much
+easier. 
+
+
+
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: The first field that pops into my mind would be within Healthcare.
