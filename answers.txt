@@ -16,3 +16,11 @@ Data Science relies on the analysis of data in order to make conclusions about
 patient's diagnosis and care. Data science can be used to analyze paitent
 records and predict which paitents are at higher risk of developing diseases
 like diabetes or heart failure
+
+Answer: Some reasons that we will use Git is because of the versatility 
+that can be added for our code. Git is very useful when is comes to Version 
+control over Code. This is especially helpful when experimenting with different
+functions, code snippets, etc. Collaboration is also very massive with Git. I
+could be working within a repository at the same time as someone else and we
+could each be seeing their new updated code. Overall Git makes many coding
+headaches go away and is very simple to learn.
