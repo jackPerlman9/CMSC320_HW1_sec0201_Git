@@ -28,4 +28,11 @@ This will keep the history intact, such as seeing where both branches and where
 they joined. Rebasing will replay you commits onto the tip of a branch which
 will make your history look linear and cleaner to look at. 
 
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning a lot of new things about 
+computer science. As a junior I now feel as though I've completed the basics
+and will now be able to branch out into different fields and see where I feel
+most comfortable at. I also want to see my friends that I haven't seen all 
+summer as well as hunting down my first internship!
 
