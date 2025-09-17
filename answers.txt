@@ -1,11 +1,12 @@
 Q1: Why might we consider using Git?
 
-Answer: Git is a great tool for us as computer science students because it 
-allows us to control the versions of code that we publish. Along with that, Git
-makes collaborations on coding projects much easier and will update accordingly
-. In terms of this class, where we have a project that we will be sharing with 
-each other, and we will be running experiements. It will make this class much
-easier. 
+Answer: Some reasons that we will use Git is because of the versatility
+that can be added for our code. Git is very useful when is comes to Version
+control over Code. This is especially helpful when experimenting with different
+functions, code snippets, etc. Collaboration is also very massive with Git. I
+could be working within a repository at the same time as someone else and we
+could each be seeing their new updated code. Overall Git makes many coding
+headaches go away and is very simple to learn.
 
 
 
@@ -17,10 +18,14 @@ patient's diagnosis and care. Data science can be used to analyze paitent
 records and predict which paitents are at higher risk of developing diseases
 like diabetes or heart failure
 
-Answer: Some reasons that we will use Git is because of the versatility 
-that can be added for our code. Git is very useful when is comes to Version 
-control over Code. This is especially helpful when experimenting with different
-functions, code snippets, etc. Collaboration is also very massive with Git. I
-could be working within a repository at the same time as someone else and we
-could each be seeing their new updated code. Overall Git makes many coding
-headaches go away and is very simple to learn.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging and rebasing do very similar things: combining changes from
+one branch to another, however, they each will do it differently. With Merging,
+it will create a merge commit which will tie the history of the two together.
+This will keep the history intact, such as seeing where both branches and where
+they joined. Rebasing will replay you commits onto the tip of a branch which
+will make your history look linear and cleaner to look at. 
+
+
